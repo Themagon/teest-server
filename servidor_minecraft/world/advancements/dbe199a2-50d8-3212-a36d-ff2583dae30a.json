@@ -1,0 +1,189 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-01-07 18:48:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-07 19:00:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-01-07 19:03:27 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-07 18:57:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-07 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-07 19:15:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-07 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-07 18:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-07 18:57:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-07 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-07 21:28:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-07 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-07 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-01-07 18:48:33 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-01-07 17:59:37 -0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-01-07 21:11:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-07 18:42:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-07 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-07 21:28:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-07 18:55:54 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-07 19:15:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-07 18:42:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-07 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-07 19:15:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-07 19:15:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2025-01-07 21:28:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-07 21:11:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-07 18:48:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-07 19:15:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-07 18:58:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-07 19:15:09 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
